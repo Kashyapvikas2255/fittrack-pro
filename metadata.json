@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Pro",
+  "description": "Lyfta-style gym and workout tracking app featuring live workout logging, rest timer, exercise library, programs, PR tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
